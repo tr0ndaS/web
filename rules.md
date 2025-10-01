@@ -511,4 +511,4 @@ Příklad:
 - Jedná se o předání message nepřátelskému gangu jako revenge za nějakou věc, co vám nepřátelský gang provedl.
 - Cílem je způsobit zranění jakoukoli zbraní a předání message nepřátelskému gangu
 
-Poslední aktualizace: Říjen 2025
+## Poslední aktualizace: Říjen 2025

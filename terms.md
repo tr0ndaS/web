@@ -83,4 +83,4 @@ Uživatel bere na vědomí, že služby **MYSTICRP.CZ** využívá na vlastní r
 
 Tyto podmínky představují úplnou dohodu mezi uživatelem a portálem **MYSTICRP.CZ**. V případě sporu platí česká verze smlouvy.
 
-### Tyto podmínky jsou platné a účinné od 1. 10. 2025 a nahrazují všechny předchozí verze.
+## Tyto podmínky jsou platné a účinné od 1. 10. 2025 a nahrazují všechny předchozí verze.

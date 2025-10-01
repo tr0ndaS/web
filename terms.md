@@ -63,7 +63,7 @@ Ačkoliv jsou stránky **MYSTICRP.CZ** přístupné celosvětově, některé pro
 
 Všechny zakoupené položky na **MYSTICRP.CZ** jsou doručovány v digitální podobě. Uživatel výslovně souhlasí s okamžitým plněním zakoupených služeb nebo digitálního obsahu ihned po provedení platby, čímž se vzdává práva na odstoupení od kupní smlouvy. V některých případech může být vyžadováno ověření identity plátce, pokud je to nezbytné pro autorizaci transakce.
 
-TROR.EU si vyhrazuje právo zrušit jakýkoliv nákup nebo zakoupenou položku, pokud zjistí porušení podmínek nebo jiné neoprávněné jednání ze strany uživatele. Pro nákupy lze využívat virtuální měnu dostupnou na **MYSTICRP.CZ**, kterou lze získat například v soutěžích, jako odměnu od jiných uživatelů nebo zakoupit ve virtuálním obchodě. Tato měna nemá reálnou hodnotu a nelze ji směnit na skutečné peníze, převést, vybrat nebo vrátit. Pokud je účet neaktivní déle než 12 měsíců, **MYSTICRP.CZ** si vyhrazuje právo nevyužitou virtuální měnu odečíst bez předchozího upozornění.
+**MYSTICRP.CZ** si vyhrazuje právo zrušit jakýkoliv nákup nebo zakoupenou položku, pokud zjistí porušení podmínek nebo jiné neoprávněné jednání ze strany uživatele. Pro nákupy lze využívat virtuální měnu dostupnou na **MYSTICRP.CZ**, kterou lze získat například v soutěžích, jako odměnu od jiných uživatelů nebo zakoupit ve virtuálním obchodě. Tato měna nemá reálnou hodnotu a nelze ji směnit na skutečné peníze, převést, vybrat nebo vrátit. Pokud je účet neaktivní déle než 12 měsíců, **MYSTICRP.CZ** si vyhrazuje právo nevyužitou virtuální měnu odečíst bez předchozího upozornění.
 
 ### 11. Vracení peněz
 

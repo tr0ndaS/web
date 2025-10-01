@@ -1,5 +1,3 @@
-## Podmínky používání
-
 ### 1. Úvod
 
 Přečtěte si tyto podmínky pozorně, protože představují právně závaznou smlouvu mezi Vámi jako koncovým uživatelem a společností **MYSTICRP.CZ**. Používáním našich stránek souhlasíte s těmito podmínkami a zavazujete se je dodržovat. Pokud s podmínkami nesouhlasíte, Vaší jedinou možností je přestat služby **MYSTICRP.CZ** používat.

@@ -44,3 +44,5 @@ Používáním služeb **MYSTICRP.CZ** souhlasíte s používáním cookies. Pok
 ### 5. Sdílení informací s třetími stranami
 
 **MYSTICRP.CZ** neposkytuje Vaše osobní údaje třetím stranám. Výjimkou mohou být situace, kdy je to vyžadováno zákonem nebo pokud jde o agregovaná anonymizovaná data pro statistické účely.
+
+## Tyto podmínky jsou platné a účinné od 1. 10. 2025 a nahrazují všechny předchozí verze.

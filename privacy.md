@@ -1,5 +1,3 @@
-## Zásady ochrany osobních údajů
-
 ### 1. Úvod
 
 **MYSTICRP.CZ** se zavazuje k ochraně soukromí svých uživatelů. I když se snažíme minimalizovat shromažďování osobních údajů, některé základní informace jsou nezbytné pro Vaši identifikaci a využívání našich služeb.

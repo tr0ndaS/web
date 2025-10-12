@@ -8,7 +8,6 @@
 - Pokud je hráč AFK, zodpovídá si za svoji postavu sám.
 - Každý hráč si za svůj účet odpovídá.
 - Jakékoliv toxické chování v OOC vůči ostatním hráčům může být trestáno banem.
-- Je zakázáno jakékoliv obchodování s předměty apod. ze hry za reálné peníze kromě platforem.
 - Hráči nesmí využívat programy třetích stran jako jsou cheaty, scripty či jiné úpravy hry, které hráče jakkoliv zvýhodňují.
 - Při zabanování hráče, který byl oprávněně potrestán za porušení pravidel, nevzniká žádné právo na náhradu škody.
 - Hráč má právo požádat o přezkoumání rozhodnutí admina přes ticket, kde musí uvést, proč si myslí, že rozhodnutí bylo nesprávné.

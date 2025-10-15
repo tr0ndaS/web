@@ -3,7 +3,8 @@
 		"image": "500.webp",
 		"name": "500",
 		"priceCZK": 99,
-		"priceEUR": 3.99
+		"priceEUR": 3.99,
+		"discount": 50
 	},
 	{
 		"image": "1100.webp",

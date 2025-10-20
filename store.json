@@ -3,14 +3,14 @@
 		"image": "500.webp",
 		"name": "500",
 		"priceCZK": 99,
-		"priceEUR": 3.99,
+		"priceEUR": 3.99
 	},
 	{
 		"image": "1100.webp",
 		"name": "1100",
 		"priceCZK": 179,
 		"priceEUR": 7.35,
-		"bonus": "Bonus 22%",
+		"bonus": "Bonus 22%"
 	},
 	{
 		"image": "2500.webp",
@@ -18,7 +18,7 @@
 		"priceCZK": 329,
 		"priceEUR": 13.49,
 		"tag": "Zlatá střední cesta",
-		"bonus": "Bonus 33%",
+		"bonus": "Bonus 33%"
 	},
 	{
 		"image": "4200.webp",
@@ -26,13 +26,13 @@
 		"priceCZK": 499,
 		"priceEUR": 20.49,
 		"tag": "Skvělá volba",
-		"bonus": "Bonus 40%",
+		"bonus": "Bonus 40%"
 	},
 	{
 		"image": "9500.webp",
 		"name": "9500",
 		"priceCZK": 949,
 		"priceEUR": 38.99,
-		"bonus": "Bonus 49%",
+		"bonus": "Bonus 49%"
 	}
 ]

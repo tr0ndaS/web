@@ -19,7 +19,7 @@
 		"priceEUR": 13.49,
 		"tag": "Zlatá střední cesta",
 		"bonus": "Bonus 33%",
-		"discount": 5
+		"discount": 10
 	},
 	{
 		"image": "4200.webp",
@@ -28,7 +28,7 @@
 		"priceEUR": 20.49,
 		"tag": "Skvělá volba",
 		"bonus": "Bonus 40%",
-		"discount": 10
+		"discount": 15
 	},
 	{
 		"image": "9500.webp",
@@ -36,6 +36,6 @@
 		"priceCZK": 949,
 		"priceEUR": 38.99,
 		"bonus": "Bonus 49%",
-		"discount": 20
+		"discount": 25
 	}
 ]

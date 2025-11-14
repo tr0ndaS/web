@@ -393,10 +393,7 @@ Poznámka:
 
 Maximální počet hráčů ve frakci:
 
-- Gang – 15 hráčů
-- Mafie – 25 hráčů
-- Cartel – 30 hráčů
-- Ostatní – 10 hráčů
+- Nelegální frakce – 50 hráčů
 
 ## 7. Nelegal Pravidla
 
